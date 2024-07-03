@@ -4,4 +4,4 @@
 4)insert your mongodb uri for connection to MongoDB Atlas
 5)insert your worldnewsdata api to collect articles
 6)insert your openai api to use gpt
-3)execute: streamlit run dashboard.py to visualize the interactive dashboard
+3)execute: streamlit run dashboard.py to view the interactive dashboard
