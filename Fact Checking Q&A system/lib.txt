@@ -1,0 +1,11 @@
+pymongo
+streamlit
+worldnewsapi
+sentence_transformers
+ipywidgets
+torch 
+torchvision 
+torchaudio 
+openai
+matplotlib
+plotly

@@ -1,0 +1,75 @@
+/* style.css */
+
+
+.stApp {
+    background-color: #000080  !important; /* Sfondo l'applicazione */
+    color: rgb(255, 255, 255);
+}
+
+.stTextInput>div>div>input {
+    background-color: #fdfdf9 !important; /* Sfondo bianco per casella testo in home page */
+    
+}
+
+.stTextInput>div>label>div>span {
+    color: white !important; /* Cambia il colore del commento */
+}
+
+
+.stButton>button {
+    background-color: #0000aa !important; /* Colore per i bottoni */
+    color: rgb(255, 233, 0) !important; /* Testo sui bottoni */
+}
+
+
+[data-testid="stSidebarContent"] {
+    color: blue;                              /* sfondo sidebar e testo sidebar*/
+    background-color: rgb(230, 216, 90);
+}
+
+.sidebar-title {
+    color: blue;  /* Cambia il colore nei titoli della sidebar */
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.stSelectbox label {
+    color: blue;    /* Cambia il colore nei titoli della selectbox */
+}
+
+
+
+[data-testid="stSidebarContent"] .stRadio label {
+    color: blue;  /* Cambia il colore del titolo dei radio button nella sidebar */
+}
+
+[data-testid="stSidebarContent"] .stRadio div {
+    color: blue;  /* Cambia il colore del testo delle opzioni della radio button nella sidebar */
+}
+
+h1 {
+    color: white;} /* Colore titolo */
+
+.stRadio label {
+    color: white;     /* Cambia il colore del titolo dei radio button nella home page */
+}
+.stRadio label div {
+    color: white;  /* Cambia il colore del testo delle opzioni della radio button nella home page */
+}
+
+
+[data-testid="stSidebarContent"] .stSidebar select {
+    background-color: white !important; /* Imposta lo sfondo del riquadro della selectbox su bianco */
+    color: black !important; /* Imposta il colore del testo nella selectbox su nero */
+}
+
+h3 {
+    color: white; /* Imposta il colore del testo Markdown in bianco */
+}
+h4 {
+    color: white; /* Imposta il colore del testo Markdown in bianco */
+}
+
+table.dataframe td {
+    color: white;
+}
